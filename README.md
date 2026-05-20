@@ -25,7 +25,6 @@ This project analyzes healthcare billing data to identify abnormal billing patte
 5. Insights Generation
 
 ## Dashboard Preview
-## Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
