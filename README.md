@@ -25,7 +25,9 @@ This project analyzes healthcare billing data to identify abnormal billing patte
 5. Insights Generation
 
 ## Dashboard Preview
-dashboard.png
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Future Improvements
 - Machine Learning based anomaly detection
